@@ -8,13 +8,21 @@ Each project is contained in its own Jupyter notebook (.ipynb):
 
 ## Data Science
 
-1. Data Science Salaries [![Static Badge](https://img.shields.io/badge/click%20me!-blue?style=for-the-badge)](https://github.com/lifrocszh/Projects/blob/main/Data%20Science/data%20science%20salaries.ipynb)
+1. Classification using Iris Dataset [![Static Badge](https://img.shields.io/badge/click%20me!-blue?style=for-the-badge)](https://github.com/lifrocszh/Projects/blob/main/Data%20Science/iris_classification.ipynb)
+
+   - Various classification models trained and their scoring metrics are displayed
+   - Logistic regression, SVM, Decision Trees, K-nearest neighbors, Naive Bayes
+
+2. Movie Recommendation System using Collaborative Filtering [![Static Badge](https://img.shields.io/badge/click%20me!-blue?style=for-the-badge)](https://github.com/lifrocszh/Projects/blob/main/Data%20Science/movie_recommendation.ipynb)
+
+   - Performed collaborative filtering based on basic movie rating dataset
+   - Similarity computed with Pearson's Similarity
+
+3. Data Science Salaries [![Static Badge](https://img.shields.io/badge/click%20me!-blue?style=for-the-badge)](https://github.com/lifrocszh/Projects/blob/main/Data%20Science/data%20science%20salaries.ipynb)
 
    - Simple visualisation of various data science salaries
    - Looks at different factors that affect data science salaries
    - Pandas, Numpy, Matplotlib, ScikitLearn, seaborn
-
-2. Housing Price Prediction with 1990 California Housing Prices
 
 ## Deep Learning
 
