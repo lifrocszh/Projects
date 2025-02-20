@@ -18,7 +18,19 @@ Each project is contained in its own Jupyter notebook (.ipynb):
    - Performed collaborative filtering based on basic movie rating dataset
    - Similarity computed with Pearson's Similarity
 
-3. Data Science Salaries [![Static Badge](https://img.shields.io/badge/click%20me!-blue?style=for-the-badge)](https://github.com/lifrocszh/Projects/blob/main/Data%20Science/data%20science%20salaries.ipynb)
+3. Speech Emotion Detection using Librosa [![Static Badge](https://img.shields.io/badge/click%20me!-blue?style=for-the-badge)](https://github.com/lifrocszh/Projects/blob/main/Data%20Science/speech_emotion_recognition.ipynb)
+
+   - Extracted audio features such as MFCCs and chroma using the Librosa library
+   - Trained machine learning models to classify emotions in speech data
+   - Evaluated model accuracy using confusion matrices and classification reports
+
+4. Twitter Sentiment Analysis using NLTK [![Static Badge](https://img.shields.io/badge/click%20me!-blue?style=for-the-badge)](https://github.com/lifrocszh/Projects/blob/main/Data%20Science/sentiment_analysis.ipynb)
+
+   - Collected and preprocessed Twitter data for sentiment classification
+   - Used NLTK for tokenization, stopword removal, and sentiment analysis
+   - Built a machine learning model to predict positive or negative sentiment in tweets
+
+5. Data Science Salaries [![Static Badge](https://img.shields.io/badge/click%20me!-blue?style=for-the-badge)](https://github.com/lifrocszh/Projects/blob/main/Data%20Science/data%20science%20salaries.ipynb)
 
    - Simple visualisation of various data science salaries
    - Looks at different factors that affect data science salaries
