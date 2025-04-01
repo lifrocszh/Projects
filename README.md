@@ -52,6 +52,13 @@ Each project is contained in its own Jupyter notebook (.ipynb):
    - Using DQN to train a neural network to play tetris
    - Pytorch, Matplotlib
    - Unable to complete training fully due to GPU limitations
+  
+## GenAI
+
+1. Simple RAG with Ollama and ChromaDB [![Static Badge](https://img.shields.io/badge/click%20me!-blue?style=for-the-badge)](https://github.com/lifrocszh/Projects/tree/main/GenAI/RAG%20with%20ollama%20langchain%20chroma)
+   - Simple retrieval augmented generation using Ollama as LLM provider
+   - ChromaDB as local vector database
+   - Langchain as RAG framework
 
 ## License
 
